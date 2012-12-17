@@ -1,6 +1,9 @@
 Geocoders
 =========
 
+* dfa
+* asdf
+
 Code for accessing various geocoding web services with an ultra simple API:
 
     name, (lat, lon) = geocode('london')
